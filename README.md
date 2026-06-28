@@ -5,7 +5,7 @@
   - [Cloud Provisioning - P2 Licensing]()
   - [Role Assignments]()
   - [Group Assignments]()
-  - [Identity Lifecycle]()
+  - [Identity Lifecycle](https://github.com/JamaIAM/identity-lifecycle/blob/main/README.md)
   - [Audit Logs]()
   - [Sign-In Logs]()
   - [Authentication]()
