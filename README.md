@@ -8,4 +8,4 @@
   - [Identity Lifecycle](https://github.com/JamaIAM/identity-lifecycle/blob/main/README.md)
   - [Audit Logs](https://github.com/JamaIAM/audit-logs/blob/main/README.md)
   - [Sign-In Logs](https://github.com/JamaIAM/sign-in-logs/blob/main/README.md)
-  - [Authentication]()
+  - [Authentication](https://github.com/JamaIAM/Authentication/blob/main/README.md)
