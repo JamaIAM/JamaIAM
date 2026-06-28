@@ -6,6 +6,6 @@
   - [Role Assignments](https://github.com/JamaIAM/Role-Assignments/blob/main/README.md)
   - [Group Assignments]()
   - [Identity Lifecycle](https://github.com/JamaIAM/identity-lifecycle/blob/main/README.md)
-  - [Audit Logs]()
+  - [Audit Logs](https://github.com/JamaIAM/audit-logs/blob/main/README.md)
   - [Sign-In Logs]()
   - [Authentication]()
