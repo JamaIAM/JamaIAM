@@ -15,7 +15,7 @@
 
 - [Import Users from Entra ID to Okta Environment](https://github.com/JamaIAM/Importing-Users-from-Entra-ID-to-Okta-environment/blob/main/README.md)
 - [Enrollment Provisioning in Okta](https://github.com/JamaIAM/Enrollment-Provisioning-in-Okta/blob/main/README.md)
-- [Creating Users in Okta Manually]()
+- [Creating Users in Okta Manually](https://github.com/JamaIAM/Create-users-manually-in-Okta)
 - [Add Attributes to User Profiles](https://github.com/JamaIAM/Adding-Attributes-to-Users-in-Okta/tree/main)
 - [Creating Groups in Okta Environment]()
 - [Attribute-Based Access Control (ABAC) Rules]()
