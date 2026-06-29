@@ -17,7 +17,7 @@
 - [Enrollment Provisioning in Okta](https://github.com/JamaIAM/Enrollment-Provisioning-in-Okta/blob/main/README.md)
 - [Creating Users in Okta Manually](https://github.com/JamaIAM/Create-users-manually-in-Okta)
 - [Add Attributes to User Profiles](https://github.com/JamaIAM/Adding-Attributes-to-Users-in-Okta/tree/main)
-- [Creating Groups in Okta Environment]()
+- [Creating Groups in Okta Environment](https://github.com/JamaIAM/Creating-Groups-in-Okta/blob/main/README.md)
 - [Attribute-Based Access Control (ABAC) Rules](https://github.com/JamaIAM/Attribute-Based-Access-Control-ABAC-)
 - [Device Management in Okta](https://github.com/JamaIAM/Device-Management-in-Okta/blob/main/README.md)
 - [Audit Logs in Okta](https://github.com/JamaIAM/Audit-logs-in-Okta/blob/main/README.md)
